@@ -1,0 +1,12 @@
+.fondo{
+	background-color: cyan;
+}
+.nav{
+	text-decoration: none;
+	background-color: blue;
+}
+.nav a:hover{
+	color: black;
+	background-color: lightcoral;
+
+}
